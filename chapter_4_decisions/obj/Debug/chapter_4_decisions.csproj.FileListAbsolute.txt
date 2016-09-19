@@ -1,0 +1,9 @@
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\bin\Debug\chapter_4_decisions.exe.config
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\bin\Debug\chapter_4_decisions.exe
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\bin\Debug\chapter_4_decisions.pdb
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\obj\Debug\chapter_4_decisions.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\obj\Debug\chapter_4_decisions.exe
+D:\Mani\comp-100\wk04-Selection_Questions\chapter_4_decisions\obj\Debug\chapter_4_decisions.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\chapter_4_decisions\bin\Debug\chapter_4_decisions.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\chapter_4_decisions\obj\Debug\chapter_4_decisions.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\chapter_4_decisions\obj\Debug\chapter_4_decisions.pdb

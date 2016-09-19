@@ -1,0 +1,9 @@
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\bin\Debug\AlignFormatStringFormatItems.exe.config
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\bin\Debug\AlignFormatStringFormatItems.exe
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\bin\Debug\AlignFormatStringFormatItems.pdb
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\obj\Debug\AlignFormatStringFormatItems.csprojResolveAssemblyReference.cache
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\obj\Debug\AlignFormatStringFormatItems.exe
+D:\Mani\comp-100\wk04-Selection_Questions\AlignFormatStringFormatItems\obj\Debug\AlignFormatStringFormatItems.pdb
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\AlignFormatStringFormatItems\bin\Debug\AlignFormatStringFormatItems.exe.config
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\AlignFormatStringFormatItems\obj\Debug\AlignFormatStringFormatItems.exe
+C:\Users\a\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\comp-100\wk04-Selection_Questions_and_Bob_Tober\AlignFormatStringFormatItems\obj\Debug\AlignFormatStringFormatItems.pdb
